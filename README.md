@@ -10,6 +10,8 @@
  
 * Accepts individual `video ID`, `playlist ID` and full `URL` too.
 
+* Dark theme support based on user os preference
+
 
 
 
