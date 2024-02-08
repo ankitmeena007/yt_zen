@@ -44,11 +44,3 @@ var config = {
     
    }
 ```
-Note: if adding config.js to .gitignore file at root of the project doesn't hide the config.js file for some reason, then you can use the following commands:
-
-```
-git rm -r --cached config.js
-
-git add .
-git commit -m 'your message'
-git push
