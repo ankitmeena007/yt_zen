@@ -18,7 +18,8 @@
 ## Live Demo: [Here](https://ankitmeena007.github.io/yt_zen/)
 
 
-![image](https://github.com/ankitmeena007/yt/assets/63893740/293ab5c9-1c66-4051-9fc9-a29ec281f728)
+![image](https://github.com/ankitmeena007/yt_zen/assets/63893740/1edabda0-8f63-4657-994b-f7299adc2035)
+
 
 ![image](https://github.com/ankitmeena007/yt_zen/assets/63893740/0f1df416-886e-40c8-9b76-2b772224e550)
 
